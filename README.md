@@ -44,10 +44,10 @@
   <a href="https://github.com/parmarakshay652-ux">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.fiverr.com/">
+  <a href="https://www.fiverr.com/parmarakshay_11">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/parmar-akshay-2b530237a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
