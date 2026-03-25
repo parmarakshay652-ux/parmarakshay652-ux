@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Akshay</h1>
+<h3 align="center">Aspiring Web Developer • Learning & Building</h3>
 
-<!--
-**parmarakshay652-ux/parmarakshay652-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+Web+Development;Building+Projects;Improving+Every+Day" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Currently learning **Web Development**
+- ⚡ Exploring **real-world projects & problem solving**
+- 📚 Focused on improving **coding & logical thinking**
+- 🎯 Goal: Become a **skilled developer**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+
+</p>
+
+---
+
+## 📌 Projects
+- 🔹 Beginner Web Projects  
+- 🔹 Practice-based coding projects  
+- 🔹 Learning-focused builds  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parmarakshay652-ux&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmarakshay652-ux&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/parmarakshay652-ux">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Mindset
+> Learning step by step and building real skills every day.
+
+---
+
+<p align="center">
+  ⭐ Keep growing | Keep building
+</p>
